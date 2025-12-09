@@ -2,12 +2,10 @@
 
 # Imperium Systematic Solutions – XAUUSD 2025 Data Challenge
 
-**Author:** \<MED \>  
+**Author:** MED KH  
 **Instrument:** XAUUSD CFD  
 **Period:** 2025 (orders & deals) + 5-min candles  
 **Goal:** Reverse-engineer the underlying trading strategies and propose robust, implementable improvements.
-
----
 
 ## 0. Notebook Roadmap
 
@@ -55,12 +53,3 @@ This notebook is organised exactly along the questions in the challenge:
      - Which clusters to keep/emphasise
      - When to throttle or turn off risk (e.g. high ATR NY session)
      - How to combine filters and position sizing rules.
-
-## 1. Data Overview
-
-**Input files:**
-
-- `data_challenge_imperium.xlsx`
-  - `orders` – order-level history
-  - `deals` – executed trades / fills
-- `XAUUSD_5min_candles.c
