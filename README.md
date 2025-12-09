@@ -2,12 +2,12 @@
 
 # Imperium Systematic Solutions – XAUUSD 2025 Data Challenge
 
-**Author:** \<MED \>  
+**Author:** MED KH  
 **Instrument:** XAUUSD CFD  
 **Period:** 2025 (orders & deals) + 5-min candles  
 **Goal:** Reverse-engineer the underlying trading strategies and propose robust, implementable improvements.
 
----
+
 
 ## 0. Notebook Roadmap
 
