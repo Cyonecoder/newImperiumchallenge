@@ -56,11 +56,4 @@ This notebook is organised exactly along the questions in the challenge:
      - When to throttle or turn off risk (e.g. high ATR NY session)
      - How to combine filters and position sizing rules.
 
-## 1. Data Overview
 
-**Input files:**
-
-- `data_challenge_imperium.xlsx`
-  - `orders` – order-level history
-  - `deals` – executed trades / fills
-- `XAUUSD_5min_candles.c
