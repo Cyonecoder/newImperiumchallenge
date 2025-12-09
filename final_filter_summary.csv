@@ -1,0 +1,6 @@
+Filter,Trades,Win_Rate,Avg_Profit,Total_Profit,Improvement
+Baseline,430,68.1%,$10.35,$4449.42,—
+ATR < 3.0,189,72.5%,$13.23,$2500.98,+$2.89
+NOT NY Session,332,69.0%,$12.04,$3996.45,+$1.69
+Late NY Session,131,72.5%,$16.10,$2109.10,+$5.75
+ATR<3 + NOT NY,145,71.7%,$14.14,$2049.80,+$3.79

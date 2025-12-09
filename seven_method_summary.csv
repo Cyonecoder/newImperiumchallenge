@@ -1,0 +1,5 @@
+Cluster,Strategy,Trades,Win_Rate,Avg_Profit,Entry_RSI,Entry_ADX,Entry_ATR,Avg_Duration,Best_Session,Exit_RSI_Target,Exit_StochK_Target
+Cluster 0,RANGE TRADER,200,70.5%,$11.59,49.5,24.9,3.28,18.3h,Asian (0-8),64,80
+Cluster 1,TREND FOLLOWER,93,76.3%,$17.54,36.0,42.6,2.73,79.6h,Late NY (17-24),65,81
+Cluster 2,BREAKOUT TRADER,76,57.9%,$3.93,32.5,41.6,6.65,15.8h,Late NY (17-24),59,77
+Cluster 3,MOMENTUM TRADER,61,60.7%,$3.31,66.8,44.2,3.62,16.4h,Late NY (17-24),66,84
